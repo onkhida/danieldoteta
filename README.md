@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Daniel Eta 👋🏾
 
 <!--
 **danieldoteta/danieldoteta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I LOVE websites. Anything on the web excites me - from basic landing pages to complex applications with dedicated backends.
+- 🌱 I'm currently a CS Major at Jacobs University, Bremen.
+- 💬 Ask me about Django, Next or anything in between.
+- 😄 Pronouns: he/him

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I LOVE websites. Anything on the web excites me - from basic landing pages to complex applications with dedicated backends.
+- 🔭 I LOVE websites. Anything on the web excites me - from fascinating landing pages to complex applications with dedicated backends.
 - 🌱 I'm currently a CS Major at Jacobs University, Bremen.
 - 💬 Ask me about Django, Next or anything in between.
 - 😄 Pronouns: he/him
